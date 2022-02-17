@@ -1,4 +1,4 @@
-# Facebook Clone 
-This web app is made using (React+firebase). It was made with the help of online youtube stream on clever programer.
-It contains firebase authentication.\
-Link: (https://fb-clone01.web.app/)
+# Thought Wall
+This web app is made using (React+firebase).
+The UI is of facebook.
+Its a place for people to post there daily thoughts and share them with others.
