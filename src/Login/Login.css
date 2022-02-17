@@ -4,24 +4,38 @@
   height: 100vh;
 }
 
-.login > button {
+.login>button {
   width: 300px;
   background-color: #2e81f4;
   color: #eff2f5;
   font-weight: 800;
 }
 
-.login > button:hover {
+.login>button:hover {
   background-color: white;
   color: #2e81f4;
 }
 
-.login > div > img {
-  object-fit: contain;
-  height: 150px;
-}
-
-.login > div {
+.login>div {
   display: flex;
   flex-direction: column;
+}
+
+.login__logo {
+  display: flex;
+  justify-content: center;
+}
+
+.login__heading {
+  font-size: 5rem;
+  color: #2e81f4;
+  align-items: center;
+  text-align: center;
+  font-weight: 600;
+}
+
+.login__sub__heading {
+  font-size: 1.2rem;
+  align-items: center;
+  text-align: right;
 }
